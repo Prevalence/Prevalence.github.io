@@ -1,2 +1,2 @@
 # Prevalence.github.io
-blog
+[blog](https://prevalence.github.io/)
